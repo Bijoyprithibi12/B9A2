@@ -1,0 +1,351 @@
+body{
+    margin-bottom: 0ex;
+    text-align: center;
+    border: 3px solid g
+    margin:0 auto; 
+    background:#F0F0F0;
+}
+    
+
+}
+.container{
+
+}
+
+.banner1-image{
+    display:flex ;
+    letter-spacing: ;
+}
+.banner1-text{
+    display: flex;
+    flex-direction: column;
+}
+.banner-root-image{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/Rectangle 5.png");
+    width: 50%;
+height: 500px;
+
+
+}
+.banner-root{
+
+}
+.banner-root-text{
+    color: beige;
+}
+.cover{
+    display: flex;
+    letter-spacing:.5px;
+}
+.banner-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/Group 13 (1) (1).png");
+
+    /* Set a specific height */
+    height: ;
+  
+    /* Position and center the image to scale nicely on all screens */
+
+    /* Set a specific height */
+  height:550px ;
+  
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  align: center;
+  
+}
+.cover1{
+    display: flex;
+    gap: 2px;
+    
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+gap: 50px;
+}
+.gallery2{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    background-color: lavender;
+    
+    width: 50%;
+    height: 300px;
+    border-radius:  50px;
+    cursor: pointer;
+    text-align: center;
+    
+
+}
+
+.money h2{
+    color: coral;
+    letter-spacing: 9px;
+    font-weight: bold;
+    font-size:40px ;
+
+}
+.slider1{
+    justify-content: center;
+    
+
+}
+.slide{
+    background-color:rgb(212, 227, 205);
+width: 50%;
+color: rgb(81, 18, 18);
+}
+#btn5
+{
+color:white;
+letter-spacing: 1px;
+background-color: coral;
+border-radius: 20px;
+width: 120px;
+height: 40px;
+
+}
+
+.slide-text  h3{
+color:coral;
+    font-size: 22px;
+}
+
+.slide1{
+    background-color:rgb(212, 227, 205);
+width: 50%;
+color: rgb(81, 18, 18);
+}
+#btn6
+{
+color:white;
+letter-spacing: 1px;
+background-color: coral;
+border-radius: 20px;
+width: 120px;
+height: 40px;
+
+}
+
+.slide-text1  h3{
+color:coral;
+    font-size: 22px;
+}
+
+.slide2{
+    background-color:rgb(212, 227, 205);
+width: 50%;
+color: rgb(81, 18, 18);
+}
+#btn7
+{
+color:white;
+letter-spacing: 1px;
+background-color: coral;
+border-radius: 20px;
+width: 120px;
+height: 40px;
+
+}
+
+.slide-text2  h3{
+color:coral;
+    font-size: 22px;
+}
+
+#btn8{
+    background-color: coral;
+    width:200px;
+    height: 55px;
+    border-radius: 25px;letter-spacing: 1.5px;
+    font-size: 20px;
+}
+.cover3{
+    display: flex;
+}
+#btn9{
+    background-color: coral;
+    border-radius: 15px;
+    width: 180px;
+    height: 65px;
+    letter-spacing: 1px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.parent{
+    display: flex;
+}
+
+#btn0{
+    width:70%;
+height: 15%;
+
+    background-color: coral;
+    gap: 2px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.input{
+    color: aqua;
+
+    gap: 50px    ;
+}
+
+
+.nav ul{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    justify-content: right;
+    font-weight:bold;
+    font-size: 20px;
+    color: rgb(79, 29, 170);
+}
+
+.fotercontent{
+    display: flex;
+    justify-self: left;
+    color:rgb(67, 51, 189) ;
+}
+.fotericon1{
+    color: coral;
+    height: 30px;
+    font-size: 70px;
+}
+
+.fotertext h1{
+    color: coral;
+font-size: 45px;
+}
+    .socialicons{
+        margin-top: 0cap;
+        padding: 10px;
+    }
+
+.content{
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius:50px ;
+    cursor: pointer;
+    box-shadow: 0 14px 20px rgba(red, green, blue)
+    10px 10px;
+    height: 300px;
+    width: 100%;
+}
+.content1{background-color: darksalmon;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius:50px ;
+    cursor: pointer;
+    box-shadow: 0 14px 20px rgba(red, green, blue)
+    10px 10px;
+    height: 300px;
+    width: 100%;
+
+}
+.content img{
+    width: 100px;
+    height: 100px;
+}
+
+.content1 img{
+    width: 100px;
+    height: 100p
+}
+
+
+.content3 img{
+    width: 100px;
+    height: 100p}
+
+
+.banner{
+    width:100%;
+    height:100vh ;
+    background-size: cover;
+    background-position: 69%;
+    border-radius: 1%;
+    position: fixed;
+    
+    background-image: ;
+}
+.banner-text{ 
+    color: aliceblue;
+    margin-left:10 px;
+    margin-top: 150px;
+
+}
+.banner-text h3{
+    letter-spacing: 10px;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.banner-text p{margin-right: 5px;
+width: 50%;
+height: 100px;
+
+}
+#btn 
+{width: 100px;
+height: 35px;
+font-weight: bold;
+letter-spacing:2px ;
+background-color: chocolate;;
+border-radius: 20px;
+
+}
+.h1{
+background-color: rgb(123, 83, 23);
+}
+#btn1{
+    background-color: blanchedalmond;
+    letter-spacing:1px ;
+    width: 100px;
+        height: 35px;
+        border-radius: 20px;
+}
+#btn2
+{
+    background-color: blanchedalmond;
+    letter-spacing:2px ;
+    width: 100px;
+        height: 35px;
+        border-radius: 20px;
+}
+#btn3
+{
+    background-color: blanchedalmond;
+    letter-spacing:2px ;
+    width: 100px;
+        height: 35px;border-radius: 20px;
+}
+
+.container0{
+    letter-spacing: 1px;
+}
+.banner1-text h1{
+    letter-spacing: 10px ;
+    color: coral;
+    font-weight: bold;
+
+}
+#btn4{
+    background-color: coral;
+    padding: 10px;
+    width: 160px;
+    height: 50px;
+    letter-spacing:1.5px ;
+    border-radius: 20px;
+    color: antiquewhite;
+    font-size: medium;
+    font-weight: bold;
+
